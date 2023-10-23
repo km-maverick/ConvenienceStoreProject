@@ -1,11 +1,13 @@
 package store.entities;
 
 public class Manager extends Staff {
-    public Manager(String name, int employeeId) {
-        super(name, employeeId);
+    public Manager(String name, int employeeId, String email, int phoneNo) {
+        super(name, employeeId, email, phoneNo);
+
     }
 
-    @Override
+
+
     public void performDuties() {
             System.out.println("As a manager, I manage the store");
 

@@ -1,8 +1,9 @@
 package store.entities;
 
 public class Cashier extends Staff {
-    public Cashier(String name, int employeeId) {
-        super(name, employeeId);
+    public Cashier(String name, int employeeId, String email, int phoneNo) {
+        super(name, employeeId, email, phoneNo);
+
     }
 
     @Override

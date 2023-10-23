@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="read from excel" type="JarApplication">
+    <option name="JAR_PATH" value="$USER_HOME$/Downloads/poi-3.17.jar" />
+    <option name="WORKING_DIRECTORY" value="C:\Users\hp\IdeaProjects\ConvenienceStoreProject" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2" />
+  </configuration>
+</component>
